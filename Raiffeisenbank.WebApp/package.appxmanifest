@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="1a155527-85ab-4b53-886a-b2bd0e7e5118" Version="1.0.0.0" Publisher="CN=Marius-Constantin" />
+  <Identity Name="17670VeApps.Raiffeisensterreich" Version="1.1.0.0" Publisher="CN=A11950EB-3EEE-4A7A-A6FA-4E36F6E13AE6" />
   <mp:PhoneIdentity PhoneProductId="1a155527-85ab-4b53-886a-b2bd0e7e5118" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
-    <DisplayName>Raiffeisenbank.WebApp</DisplayName>
-    <PublisherDisplayName>Marius-Constantin Dinu</PublisherDisplayName>
+    <DisplayName>Raiffeisen Österreich</DisplayName>
+    <PublisherDisplayName>VeApps</PublisherDisplayName>
     <Logo>images\storelogo.png</Logo>
   </Properties>
   <Dependencies>
